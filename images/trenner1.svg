@@ -1,0 +1,19 @@
+<svg id="Komponente_9_1" data-name="Komponente 9 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="280" viewBox="0 0 1920 280">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_176" data-name="Rechteck 176" width="1920" height="280" transform="translate(0 626)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Pfad_4" x="-418.135" y="-700.328" width="2756.271" height="1026.697" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_maskieren_7" data-name="Gruppe maskieren 7" transform="translate(0 -626)" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 0, 626)" filter="url(#Pfad_4)">
+      <path id="Pfad_4-2" data-name="Pfad 4" d="M-40.076,493.619s-451.1,75.979-305.053,153.6S243.2,920.141,1094.4,765.085s1097.259,273.756,1168.141,52.166S2121.3-28.828,2121.3-28.828L538.389-39.446-97.241-28.828l11.388,578.635Z" transform="translate(8.6 -628.38)" fill="#14141e"/>
+    </g>
+  </g>
+</svg>
